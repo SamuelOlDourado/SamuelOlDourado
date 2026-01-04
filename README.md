@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo ao meu perfil!  
 
-Sou um jovem atualmente cursando **Desenvolvimento de Sistemas** com foco em **Desenvolvimento Web**. Sempre em busca de novos desafios e aprendizado contínuo!
+Sou formado no Ensino médio e no Curso Técnico em Desenvolvimento de sistemas pelo SENAI, com foco em Desenvolvimento Web. Tenho interesse especial em Front-end, mas também possuo conhecimentos em Back-end, sempre buscando evoluir por meio de projetos práticos e aprendizado contínuo. 
 
 ---
 
@@ -34,9 +34,10 @@ Sou um jovem atualmente cursando **Desenvolvimento de Sistemas** com foco em **D
 
 ## 📌 Sobre mim  
 
-- 💡 **Atualmente estudando:** Desenvolvimento Web com foco em **HTML, CSS, Flask e SQLite**.  
-- 📚 **Interesses:** Frontend (principalmente) , Backend e Design.  
-- 🎯 **Objetivo:** Aprimorar minhas habilidades e contribuir para projetos inovadores.  
+- 💡 **Formação:** Técnico em Desenvolvimento de sistema (SENAI)
+- 🖥️ **Atuação:** Desenvolvimento Web.
+- 🎨 **Interesses:** Front-end, back-end, design.
+- 🎯 **Objetivo:** Aprimorar minhas habilidades, contribuir para projetos reais e evoluir profissionalmente.  
 
 ---
 
