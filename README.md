@@ -1,6 +1,10 @@
 # 👋 Olá, seja bem-vindo ao meu perfil!  
 
-Sou formado no Ensino médio e no Curso Técnico em Desenvolvimento de sistemas pelo SENAI, com foco em Desenvolvimento Web. Tenho interesse especial em Front-end, mas também possuo conhecimentos em Back-end, sempre buscando evoluir por meio de projetos práticos e aprendizado contínuo. 
+Sou estudante de **Engenharia de Software** e formado no **Curso Técnico em Desenvolvimento de Sistemas pelo SENAI**, com foco em **Desenvolvimento Web**.
+
+Tenho experiência no desenvolvimento de aplicações utilizando **Python**, **Flask**, **SQLite** e **PostgreSQL**, além da criação de interfaces responsivas com **HTML**, **CSS**, **JavaScript** e **Bootstrap**.
+
+Atualmente busco aprimorar minhas habilidades por meio de projetos práticos, explorando tanto o desenvolvimento **Front-end** quanto **Back-end**, sempre aplicando boas práticas de programação e engenharia de software.
 
 ---
 
@@ -34,10 +38,12 @@ Sou formado no Ensino médio e no Curso Técnico em Desenvolvimento de sistemas 
 
 ## 📌 Sobre mim  
 
-- 💡 **Formação:** Técnico em Desenvolvimento de sistema (SENAI)
-- 🖥️ **Atuação:** Desenvolvimento Web.
-- 🎨 **Interesses:** Front-end, back-end, design.
-- 🎯 **Objetivo:** Aprimorar minhas habilidades, contribuir para projetos reais e evoluir profissionalmente.  
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SENAI) e estudante de Engenharia de Software.
+- 💻 **Atuação:** Desenvolvimento Web.
+- 🚀 **Tecnologias principais:** Python, Flask, HTML, CSS, JavaScript e Bootstrap.
+- 🗄️ **Banco de dados:** SQLite e PostgreSQL.
+- 🎨 **Interesses:** Front-end, Back-end, UI/UX e Design.
+- 🎯 **Objetivo:** Conquistar oportunidades de estágio e evoluir profissionalmente como desenvolvedor de software.
 
 ---
 
