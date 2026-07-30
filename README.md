@@ -23,19 +23,6 @@ Atualmente busco aprimorar minhas habilidades por meio de projetos práticos, ex
 
 ---
 
-## 📊 Estatísticas no GitHub  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOlDourado&theme=tokyonight" alt="GitHub Streak" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelOlDourado&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOlDourado&layout=compact&theme=tokyonight" alt="Top Languages" width="47%"/>
-</p>
-
----
-
 ## 📌 Sobre mim  
 
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SENAI) e estudante de Engenharia de Software.
