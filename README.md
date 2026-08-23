@@ -2,7 +2,7 @@
   <img width="1280" height="400" alt="Samuel Dourado — Desenvolvedor Web e estudante de Engenharia de Software" src="https://github.com/user-attachments/assets/0a5e8d29-d69a-4bb7-8577-f91f4f97cb93" />
 </p>
 
-<h1 align="center">Olá, Bem--vindo ao meu perfil! 👋</h1>
+<h1 align="center">Olá, Bem-vindo ao meu perfil! 👋</h1>
 
 <p align="center">
   <strong>💻 Desenvolvedor Web</strong>
