@@ -19,20 +19,7 @@
 
 ## 🔗 Conecte-se comigo
 
-<p align="center">
-  <a href="https://samueld-portfolio-oficial.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-dourado-8787a1309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:samuel.do.dourado@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/5518996550738" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+<p align="center"><a href="https://samueld-portfolio-oficial.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a><a href="https://www.linkedin.com/in/samuel-dourado-8787a1309/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:samuel.do.dourado@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://wa.me/5518996550738"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a></p>
 
 ---
 
@@ -103,5 +90,6 @@ Continuar evoluindo como desenvolvedor, transformar ideias em aplicações funci
 ---
 
 <p align="center">
-  <img width="1280" height="400" alt="Obrigado por visitar meu perfil - Samuel Dourado" src="https://github.com/user-attachments/assets/54330cea-39c5-40db-8374-f22e70511f78" />
+  <img width="1280" height="400" alt="Obrigado por visitar meu perfil - Samuel Dourado" src="https://github.com/user-attachments/assets/72672a81-0444-4d49-b1b2-77bce70e4968" />
+
 </p>
